@@ -1,0 +1,16 @@
+<!doctype html>
+<title>Home|Schoology</title>
+<style>
+<h9000 style="font-fammily:arial; color:#1A5276">
+body {background: #FBCCF6;margin: 0;}
+#backgroundImage {border: none;height: 100%;pointer-events: none;position: fixed;top: 0;visibility: hidden;width: 100%;}
+[show-background-image] #backgroundImage {visibility: visible;}
+</style>
+<p> For the internet world! <p/>
+<br>
+<br>
+<a href="https://sites.google.com/fcpsschools.net/unitekoreans/home">ROUK</a>
+<br>
+<a href="https://sites.google.com/fcpsschools.net/schoolaintfun/home">UFS</a>
+<br>
+</html>
